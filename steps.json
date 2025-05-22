@@ -1,0 +1,19 @@
+[
+  {
+    "action": "type",
+    "selector": "By.NAME:srchBlNo1",
+    "value": "SINI25432400"
+  },
+  {
+    "action": "click",
+    "selector": "By.XPATH://button[text()=\"Retrieve\"]"
+  },
+  {
+    "action": "read",
+    "selector": "(//div[normalize-space()=\"Vessel / Voyage\"]/ancestor::table//tbody/tr/td[1]/div)[1]"
+  },
+  {
+    "action": "read",
+    "selector": "(//div[normalize-space()=\"Arrival\"]/ancestor::table//tbody/tr/td[last()]/div)[1]"
+  }
+]
