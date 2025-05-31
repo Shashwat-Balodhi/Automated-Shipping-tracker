@@ -82,11 +82,15 @@ You’ll see:
 ---
 
 ## 💬 Notes
-- Make sure Chrome is installed and updated.
+- Make sure Chrome is installed and updated, chrome-driver should be as per the version of chrome and can be found on google for installation and setup process.
 - If you face SSL or certificate warnings, they're automatically ignored.
 - `WinError 6` can be safely ignored (Chrome closes fine).
 
 ---
 
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/b5abd315-0f19-4f77-986f-0ebbc620ac7b
+
 ## 📍 Author & Acknowledgment
-Created for the AI-based automation assignment for HMM shipping line container tracking.
+Created for the AI-based automation assignment for HMM shipping line container tracking. NO HARM INTENDED. ONLY FOR EDUCATIONAL PURPOSE.
